@@ -7,7 +7,12 @@ package if1.pkg10119010.latihan45.cetaknama;
 
 /**
  *
- * @author MIM
+ * @author Maulana Imam Malik
+ * NAMA     : Maulana Imam Malik
+ * KELAS    : IF1
+ * NIM      : 10119010
+ * Deskripsi Program : Program ini berisi program untuk menampilkan nama sebanyak
+ *                     yang di tentukan dengan konsep OOP
  */
 public class Printer {
     private int jmlCetak;
